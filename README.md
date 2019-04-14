@@ -3,3 +3,5 @@
 Just another RESTful API for me to study :)
 
 Soon more information on how to run that (I still don't know how to do that, but soon)
+
+We will use [PostgreSQL](https://postgresapp.com/), so be sure to have installed, and running on `5432`.
